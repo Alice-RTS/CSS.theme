@@ -1,0 +1,15 @@
+:root{
+  --clr-st:  #FF36AB;
+  --clr-nd: #020202;
+  --clr-rd: #642CA9;
+  --clr-white: #FFFFFF;
+  --font-main:Arial, Helvetica, sans-serif;
+  --font-nd:"Lucida Console", "Courier New", monospace;
+}
+*{margin:0;
+  padding:0;
+  box-zizing: border-box;
+
+body{
+background-color: var(--color-rd)
+}
